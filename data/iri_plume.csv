@@ -30,10 +30,10 @@ data_coleta,emissao,passo,estacao,data_prev,modelo,tipo,nino34_anom_C,fonte_url
 2026-06-23,2026-06,7,DJF 2027,2027-01-15,CMC CANSIP,Dynamical,2.56,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
 2026-06-23,2026-06,8,JFM 2027,2027-02-15,CMC CANSIP,Dynamical,2.38,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
 2026-06-23,2026-06,9,FMA 2027,2027-03-15,CMC CANSIP,Dynamical,2.15,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-06-23,2026-06,1,JJA 2026,2026-07-15,CMCC DYNAMIC,Dynamical,1.86,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-06-23,2026-06,2,JAS 2026,2026-08-15,CMCC DYNAMIC,Dynamical,2.32,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-06-23,2026-06,3,ASO 2026,2026-09-15,CMCC DYNAMIC,Dynamical,2.87,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-06-23,2026-06,4,SON 2026,2026-10-15,CMCC DYNAMIC,Dynamical,3.47,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-06-23,2026-06,1,JJA 2026,2026-07-15,CMCC-SPS4,Dynamical,1.86,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-06-23,2026-06,2,JAS 2026,2026-08-15,CMCC-SPS4,Dynamical,2.32,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-06-23,2026-06,3,ASO 2026,2026-09-15,CMCC-SPS4,Dynamical,2.87,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-06-23,2026-06,4,SON 2026,2026-10-15,CMCC-SPS4,Dynamical,3.47,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
 2026-06-23,2026-06,1,JJA 2026,2026-07-15,COLA CCSM4,Dynamical,2.094,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
 2026-06-23,2026-06,2,JAS 2026,2026-08-15,COLA CCSM4,Dynamical,2.625,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
 2026-06-23,2026-06,3,ASO 2026,2026-09-15,COLA CCSM4,Dynamical,3.024,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
