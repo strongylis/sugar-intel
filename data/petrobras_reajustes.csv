@@ -1,0 +1,6 @@
+data,produto,tipo,preco_anterior_rs_l,preco_novo_rs_l,delta_rs_l,delta_pct,descricao,fonte
+2025-06-03,gasolina_a,reajuste,3.02,2.85,-0.17,-5.6,"Redução em 5,6% — gestão Magda Chambriard, alinhamento com Brent em queda",agenciagov.ebc.com.br
+2025-10-21,gasolina_a,reajuste,2.85,2.71,-0.14,-4.9,2ª redução de 2025 — gasolina estava 10% acima do PPI,agenciabrasil.ebc.com.br
+2026-01-27,gasolina_a,reajuste,2.71,2.57,-0.14,-5.2,"Redução de 5,2%, 1ª do ano — política mantém gasolina abaixo do PPI",poder360.com.br + timesbrasil.com.br
+2026-05-25,gasolina_a,subvencao,,,-0.44,,"Subvenção federal fixada em R$ 0,44/L (Portaria 1.496; MP 1.358 de 13/05) — contexto guerra EUA-Irã, vigência 2 meses",agenciabrasil.ebc.com.br (25/05/2026)
+2026-05-29,gasolina_a,reajuste,2.57,3.05,0.48,18.6,"Aumento de R$ 0,48/L (+18,6%); com o desconto da subvenção de R$ 0,44/L, efeito líquido +1,5% às distribuidoras",agencia.petrobras.com.br (29/05/2026)
