@@ -1,30 +1,30 @@
 data_coleta,emissao,passo,estacao,data_prev,modelo,tipo,nino34_anom_C,fonte_url
-2026-08-04,2026-08,1,ASO 2026,2026-09-15,AUS-ACCESS,Dynamical,3.533,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,2,SON 2026,2026-10-15,AUS-ACCESS,Dynamical,3.867,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,3,OND 2026,2026-11-15,AUS-ACCESS,Dynamical,4.0,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,4,NDJ 2026,2026-12-15,AUS-ACCESS,Dynamical,3.9,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,1,ASO 2026,2026-09-15,CPC MRKOV,Statistical,2.38,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,2,SON 2026,2026-10-15,CPC MRKOV,Statistical,2.6,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,3,OND 2026,2026-11-15,CPC MRKOV,Statistical,2.76,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,4,NDJ 2026,2026-12-15,CPC MRKOV,Statistical,2.82,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,5,DJF 2027,2027-01-15,CPC MRKOV,Statistical,2.71,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,6,JFM 2027,2027-02-15,CPC MRKOV,Statistical,2.41,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,7,FMA 2027,2027-03-15,CPC MRKOV,Statistical,2.02,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,8,MAM 2027,2027-04-15,CPC MRKOV,Statistical,1.62,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,9,AMJ 2027,2027-05-15,CPC MRKOV,Statistical,1.27,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,1,ASO 2026,2026-09-15,LDEO,Dynamical,1.669,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,2,SON 2026,2026-10-15,LDEO,Dynamical,1.866,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,3,OND 2026,2026-11-15,LDEO,Dynamical,2.025,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,4,NDJ 2026,2026-12-15,LDEO,Dynamical,1.977,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,5,DJF 2027,2027-01-15,LDEO,Dynamical,1.698,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,6,JFM 2027,2027-02-15,LDEO,Dynamical,1.353,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,7,FMA 2027,2027-03-15,LDEO,Dynamical,1.096,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,8,MAM 2027,2027-04-15,LDEO,Dynamical,1.006,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,9,AMJ 2027,2027-05-15,LDEO,Dynamical,0.936,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,1,ASO 2026,2026-09-15,NASA GMAOv3,Dynamical,2.942,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,2,SON 2026,2026-10-15,NASA GMAOv3,Dynamical,3.151,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,3,OND 2026,2026-11-15,NASA GMAOv3,Dynamical,3.312,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,4,NDJ 2026,2026-12-15,NASA GMAOv3,Dynamical,3.417,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,5,DJF 2027,2027-01-15,NASA GMAOv3,Dynamical,3.433,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,6,JFM 2027,2027-02-15,NASA GMAOv3,Dynamical,3.305,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
-2026-08-04,2026-08,7,FMA 2027,2027-03-15,NASA GMAOv3,Dynamical,2.972,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,1,ASO 2026,2026-09-15,AUS-ACCESS,Dynamical,3.533,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,2,SON 2026,2026-10-15,AUS-ACCESS,Dynamical,3.867,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,3,OND 2026,2026-11-15,AUS-ACCESS,Dynamical,4.0,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,4,NDJ 2026,2026-12-15,AUS-ACCESS,Dynamical,3.9,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,1,ASO 2026,2026-09-15,CPC MRKOV,Statistical,2.38,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,2,SON 2026,2026-10-15,CPC MRKOV,Statistical,2.6,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,3,OND 2026,2026-11-15,CPC MRKOV,Statistical,2.76,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,4,NDJ 2026,2026-12-15,CPC MRKOV,Statistical,2.82,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,5,DJF 2027,2027-01-15,CPC MRKOV,Statistical,2.71,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,6,JFM 2027,2027-02-15,CPC MRKOV,Statistical,2.41,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,7,FMA 2027,2027-03-15,CPC MRKOV,Statistical,2.02,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,8,MAM 2027,2027-04-15,CPC MRKOV,Statistical,1.62,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,9,AMJ 2027,2027-05-15,CPC MRKOV,Statistical,1.27,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,1,ASO 2026,2026-09-15,LDEO,Dynamical,1.669,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,2,SON 2026,2026-10-15,LDEO,Dynamical,1.866,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,3,OND 2026,2026-11-15,LDEO,Dynamical,2.025,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,4,NDJ 2026,2026-12-15,LDEO,Dynamical,1.977,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,5,DJF 2027,2027-01-15,LDEO,Dynamical,1.698,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,6,JFM 2027,2027-02-15,LDEO,Dynamical,1.353,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,7,FMA 2027,2027-03-15,LDEO,Dynamical,1.096,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,8,MAM 2027,2027-04-15,LDEO,Dynamical,1.006,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,9,AMJ 2027,2027-05-15,LDEO,Dynamical,0.936,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,1,ASO 2026,2026-09-15,NASA GMAOv3,Dynamical,2.942,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,2,SON 2026,2026-10-15,NASA GMAOv3,Dynamical,3.151,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,3,OND 2026,2026-11-15,NASA GMAOv3,Dynamical,3.312,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,4,NDJ 2026,2026-12-15,NASA GMAOv3,Dynamical,3.417,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,5,DJF 2027,2027-01-15,NASA GMAOv3,Dynamical,3.433,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,6,JFM 2027,2027-02-15,NASA GMAOv3,Dynamical,3.305,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+2026-08-05,2026-08,7,FMA 2027,2027-03-15,NASA GMAOv3,Dynamical,2.972,https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
