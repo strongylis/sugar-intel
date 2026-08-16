@@ -1,35 +1,35 @@
 {
-  "ic": "Jul 2026",
+  "ic": "Aug 2026",
   "fonte_url": "https://www.cpc.ncep.noaa.gov/products/international/nmme/html_monthly/precip_anom_samerica_body.html",
   "maps": [
     {
       "file": "nmme_1.png",
-      "label": "Aug 2026",
-      "w": 735,
+      "label": "Sep 2026",
+      "w": 733,
       "h": 780
     },
     {
       "file": "nmme_2.png",
-      "label": "Sep 2026",
-      "w": 735,
+      "label": "Oct 2026",
+      "w": 733,
       "h": 780
     },
     {
       "file": "nmme_3.png",
-      "label": "Oct 2026",
-      "w": 735,
+      "label": "Nov 2026",
+      "w": 733,
       "h": 780
     },
     {
       "file": "nmme_4.png",
-      "label": "Nov 2026",
-      "w": 735,
+      "label": "Dec 2026",
+      "w": 733,
       "h": 780
     },
     {
       "file": "nmme_5.png",
-      "label": "Dec 2026",
-      "w": 735,
+      "label": "Jan 2027",
+      "w": 733,
       "h": 780
     }
   ],
