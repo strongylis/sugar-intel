@@ -1,197 +1,197 @@
 data_coleta,cidade,ordem,data_prev,precip_mm,lat,lon,fonte_url
-2026-08-19,Araçatuba,1,2026-08-19,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,2,2026-08-20,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,3,2026-08-21,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,4,2026-08-22,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,5,2026-08-23,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,6,2026-08-24,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,7,2026-08-25,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,8,2026-08-26,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,9,2026-08-27,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,10,2026-08-28,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,11,2026-08-29,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,12,2026-08-30,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,13,2026-08-31,0.0,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Araçatuba,14,2026-09-01,1.6,-21.2089,-50.4329,https://open-meteo.com/
-2026-08-19,Presidente Prudente,1,2026-08-19,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,2,2026-08-20,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,3,2026-08-21,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,4,2026-08-22,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,5,2026-08-23,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,6,2026-08-24,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,7,2026-08-25,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,8,2026-08-26,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,9,2026-08-27,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,10,2026-08-28,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,11,2026-08-29,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,12,2026-08-30,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,13,2026-08-31,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,Presidente Prudente,14,2026-09-01,0.0,-22.1256,-51.3889,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,1,2026-08-19,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,2,2026-08-20,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,3,2026-08-21,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,4,2026-08-22,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,5,2026-08-23,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,6,2026-08-24,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,7,2026-08-25,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,8,2026-08-26,0.6,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,9,2026-08-27,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,10,2026-08-28,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,11,2026-08-29,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,12,2026-08-30,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,13,2026-08-31,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,São José do Rio Preto,14,2026-09-01,0.0,-20.8197,-49.3794,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,1,2026-08-19,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,2,2026-08-20,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,3,2026-08-21,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,4,2026-08-22,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,5,2026-08-23,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,6,2026-08-24,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,7,2026-08-25,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,8,2026-08-26,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,9,2026-08-27,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,10,2026-08-28,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,11,2026-08-29,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,12,2026-08-30,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,13,2026-08-31,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Ribeirão Preto,14,2026-09-01,0.0,-21.1775,-47.8103,https://open-meteo.com/
-2026-08-19,Bauru,1,2026-08-19,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,2,2026-08-20,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,3,2026-08-21,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,4,2026-08-22,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,5,2026-08-23,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,6,2026-08-24,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,7,2026-08-25,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,8,2026-08-26,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,9,2026-08-27,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,10,2026-08-28,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,11,2026-08-29,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,12,2026-08-30,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,13,2026-08-31,0.0,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Bauru,14,2026-09-01,0.6,-22.3147,-49.0606,https://open-meteo.com/
-2026-08-19,Assis,1,2026-08-19,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,2,2026-08-20,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,3,2026-08-21,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,4,2026-08-22,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,5,2026-08-23,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,6,2026-08-24,0.9,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,7,2026-08-25,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,8,2026-08-26,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,9,2026-08-27,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,10,2026-08-28,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,11,2026-08-29,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,12,2026-08-30,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,13,2026-08-31,0.0,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Assis,14,2026-09-01,0.6,-22.6619,-50.4119,https://open-meteo.com/
-2026-08-19,Piracicaba,1,2026-08-19,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,2,2026-08-20,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,3,2026-08-21,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,4,2026-08-22,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,5,2026-08-23,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,6,2026-08-24,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,7,2026-08-25,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,8,2026-08-26,0.6,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,9,2026-08-27,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,10,2026-08-28,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,11,2026-08-29,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,12,2026-08-30,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,13,2026-08-31,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Piracicaba,14,2026-09-01,0.0,-22.7253,-47.6492,https://open-meteo.com/
-2026-08-19,Santos,1,2026-08-19,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,2,2026-08-20,0.2,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,3,2026-08-21,0.6,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,4,2026-08-22,0.2,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,5,2026-08-23,1.7,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,6,2026-08-24,14.7,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,7,2026-08-25,6.7,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,8,2026-08-26,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,9,2026-08-27,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,10,2026-08-28,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,11,2026-08-29,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,12,2026-08-30,0.0,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,13,2026-08-31,2.4,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Santos,14,2026-09-01,30.8,-23.9608,-46.3336,https://open-meteo.com/
-2026-08-19,Paranaguá,1,2026-08-19,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,2,2026-08-20,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,3,2026-08-21,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,4,2026-08-22,2.4,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,5,2026-08-23,1.6,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,6,2026-08-24,0.3,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,7,2026-08-25,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,8,2026-08-26,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,9,2026-08-27,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,10,2026-08-28,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,11,2026-08-29,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,12,2026-08-30,0.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,13,2026-08-31,13.0,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Paranaguá,14,2026-09-01,19.6,-25.5161,-48.5222,https://open-meteo.com/
-2026-08-19,Belo Horizonte,1,2026-08-19,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,2,2026-08-20,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,3,2026-08-21,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,4,2026-08-22,0.4,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,5,2026-08-23,1.2,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,6,2026-08-24,6.1,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,7,2026-08-25,4.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,8,2026-08-26,2.8,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,9,2026-08-27,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,10,2026-08-28,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,11,2026-08-29,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,12,2026-08-30,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,13,2026-08-31,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Belo Horizonte,14,2026-09-01,0.0,-19.9167,-43.9345,https://open-meteo.com/
-2026-08-19,Betim,1,2026-08-19,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,2,2026-08-20,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,3,2026-08-21,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,4,2026-08-22,0.1,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,5,2026-08-23,0.6,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,6,2026-08-24,7.7,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,7,2026-08-25,3.1,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,8,2026-08-26,0.6,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,9,2026-08-27,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,10,2026-08-28,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,11,2026-08-29,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,12,2026-08-30,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,13,2026-08-31,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Betim,14,2026-09-01,0.0,-19.9678,-44.1986,https://open-meteo.com/
-2026-08-19,Uberlândia,1,2026-08-19,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,2,2026-08-20,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,3,2026-08-21,0.4,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,4,2026-08-22,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,5,2026-08-23,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,6,2026-08-24,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,7,2026-08-25,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,8,2026-08-26,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,9,2026-08-27,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,10,2026-08-28,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,11,2026-08-29,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,12,2026-08-30,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,13,2026-08-31,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Uberlândia,14,2026-09-01,0.0,-18.9186,-48.2772,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,1,2026-08-19,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,2,2026-08-20,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,3,2026-08-21,1.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,4,2026-08-22,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,5,2026-08-23,0.4,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,6,2026-08-24,12.2,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,7,2026-08-25,1.5,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,8,2026-08-26,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,9,2026-08-27,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,10,2026-08-28,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,11,2026-08-29,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,12,2026-08-30,0.0,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,13,2026-08-31,0.2,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Rio de Janeiro,14,2026-09-01,2.4,-22.9068,-43.1729,https://open-meteo.com/
-2026-08-19,Goiânia,1,2026-08-19,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,2,2026-08-20,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,3,2026-08-21,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,4,2026-08-22,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,5,2026-08-23,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,6,2026-08-24,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,7,2026-08-25,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,8,2026-08-26,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,9,2026-08-27,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,10,2026-08-28,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,11,2026-08-29,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,12,2026-08-30,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,13,2026-08-31,0.0,-16.6869,-49.2648,https://open-meteo.com/
-2026-08-19,Goiânia,14,2026-09-01,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Araçatuba,1,2026-08-22,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,2,2026-08-23,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,3,2026-08-24,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,4,2026-08-25,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,5,2026-08-26,0.9,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,6,2026-08-27,1.8,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,7,2026-08-28,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,8,2026-08-29,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,9,2026-08-30,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,10,2026-08-31,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,11,2026-09-01,5.2,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,12,2026-09-02,4.4,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,13,2026-09-03,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Araçatuba,14,2026-09-04,0.0,-21.2089,-50.4329,https://open-meteo.com/
+2026-08-22,Presidente Prudente,1,2026-08-22,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,2,2026-08-23,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,3,2026-08-24,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,4,2026-08-25,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,5,2026-08-26,0.5,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,6,2026-08-27,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,7,2026-08-28,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,8,2026-08-29,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,9,2026-08-30,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,10,2026-08-31,3.2,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,11,2026-09-01,16.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,12,2026-09-02,0.2,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,13,2026-09-03,7.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,Presidente Prudente,14,2026-09-04,0.0,-22.1256,-51.3889,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,1,2026-08-22,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,2,2026-08-23,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,3,2026-08-24,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,4,2026-08-25,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,5,2026-08-26,3.3,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,6,2026-08-27,0.6,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,7,2026-08-28,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,8,2026-08-29,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,9,2026-08-30,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,10,2026-08-31,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,11,2026-09-01,6.6,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,12,2026-09-02,7.8,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,13,2026-09-03,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,São José do Rio Preto,14,2026-09-04,0.0,-20.8197,-49.3794,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,1,2026-08-22,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,2,2026-08-23,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,3,2026-08-24,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,4,2026-08-25,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,5,2026-08-26,5.3,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,6,2026-08-27,2.5,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,7,2026-08-28,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,8,2026-08-29,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,9,2026-08-30,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,10,2026-08-31,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,11,2026-09-01,10.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,12,2026-09-02,18.6,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,13,2026-09-03,8.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Ribeirão Preto,14,2026-09-04,0.0,-21.1775,-47.8103,https://open-meteo.com/
+2026-08-22,Bauru,1,2026-08-22,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,2,2026-08-23,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,3,2026-08-24,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,4,2026-08-25,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,5,2026-08-26,2.2,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,6,2026-08-27,0.3,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,7,2026-08-28,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,8,2026-08-29,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,9,2026-08-30,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,10,2026-08-31,0.6,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,11,2026-09-01,20.2,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,12,2026-09-02,3.2,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,13,2026-09-03,12.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Bauru,14,2026-09-04,0.0,-22.3147,-49.0606,https://open-meteo.com/
+2026-08-22,Assis,1,2026-08-22,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,2,2026-08-23,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,3,2026-08-24,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,4,2026-08-25,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,5,2026-08-26,3.5,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,6,2026-08-27,0.6,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,7,2026-08-28,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,8,2026-08-29,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,9,2026-08-30,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,10,2026-08-31,4.8,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,11,2026-09-01,21.4,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,12,2026-09-02,0.8,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,13,2026-09-03,6.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Assis,14,2026-09-04,0.0,-22.6619,-50.4119,https://open-meteo.com/
+2026-08-22,Piracicaba,1,2026-08-22,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,2,2026-08-23,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,3,2026-08-24,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,4,2026-08-25,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,5,2026-08-26,6.5,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,6,2026-08-27,3.2,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,7,2026-08-28,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,8,2026-08-29,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,9,2026-08-30,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,10,2026-08-31,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,11,2026-09-01,20.4,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,12,2026-09-02,4.2,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,13,2026-09-03,0.6,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Piracicaba,14,2026-09-04,0.0,-22.7253,-47.6492,https://open-meteo.com/
+2026-08-22,Santos,1,2026-08-22,2.6,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,2,2026-08-23,2.2,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,3,2026-08-24,18.8,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,4,2026-08-25,1.2,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,5,2026-08-26,7.7,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,6,2026-08-27,4.8,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,7,2026-08-28,0.0,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,8,2026-08-29,0.0,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,9,2026-08-30,0.0,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,10,2026-08-31,2.2,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,11,2026-09-01,60.0,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,12,2026-09-02,29.8,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,13,2026-09-03,5.6,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Santos,14,2026-09-04,0.8,-23.9608,-46.3336,https://open-meteo.com/
+2026-08-22,Paranaguá,1,2026-08-22,1.8,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,2,2026-08-23,3.5,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,3,2026-08-24,0.7,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,4,2026-08-25,1.7,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,5,2026-08-26,2.5,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,6,2026-08-27,0.1,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,7,2026-08-28,0.0,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,8,2026-08-29,0.0,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,9,2026-08-30,0.0,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,10,2026-08-31,21.6,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,11,2026-09-01,13.8,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,12,2026-09-02,1.8,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,13,2026-09-03,7.0,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Paranaguá,14,2026-09-04,13.2,-25.5161,-48.5222,https://open-meteo.com/
+2026-08-22,Belo Horizonte,1,2026-08-22,0.2,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,2,2026-08-23,0.4,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,3,2026-08-24,6.2,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,4,2026-08-25,0.1,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,5,2026-08-26,4.7,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,6,2026-08-27,10.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,7,2026-08-28,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,8,2026-08-29,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,9,2026-08-30,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,10,2026-08-31,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,11,2026-09-01,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,12,2026-09-02,1.2,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,13,2026-09-03,6.6,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Belo Horizonte,14,2026-09-04,0.0,-19.9167,-43.9345,https://open-meteo.com/
+2026-08-22,Betim,1,2026-08-22,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,2,2026-08-23,1.2,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,3,2026-08-24,2.8,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,4,2026-08-25,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,5,2026-08-26,7.8,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,6,2026-08-27,8.7,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,7,2026-08-28,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,8,2026-08-29,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,9,2026-08-30,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,10,2026-08-31,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,11,2026-09-01,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,12,2026-09-02,0.2,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,13,2026-09-03,0.4,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Betim,14,2026-09-04,0.0,-19.9678,-44.1986,https://open-meteo.com/
+2026-08-22,Uberlândia,1,2026-08-22,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,2,2026-08-23,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,3,2026-08-24,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,4,2026-08-25,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,5,2026-08-26,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,6,2026-08-27,8.7,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,7,2026-08-28,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,8,2026-08-29,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,9,2026-08-30,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,10,2026-08-31,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,11,2026-09-01,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,12,2026-09-02,0.6,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,13,2026-09-03,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Uberlândia,14,2026-09-04,0.0,-18.9186,-48.2772,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,1,2026-08-22,1.9,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,2,2026-08-23,1.8,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,3,2026-08-24,14.4,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,4,2026-08-25,0.7,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,5,2026-08-26,0.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,6,2026-08-27,16.8,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,7,2026-08-28,0.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,8,2026-08-29,0.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,9,2026-08-30,0.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,10,2026-08-31,0.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,11,2026-09-01,8.4,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,12,2026-09-02,29.8,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,13,2026-09-03,6.4,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Rio de Janeiro,14,2026-09-04,4.0,-22.9068,-43.1729,https://open-meteo.com/
+2026-08-22,Goiânia,1,2026-08-22,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,2,2026-08-23,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,3,2026-08-24,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,4,2026-08-25,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,5,2026-08-26,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,6,2026-08-27,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,7,2026-08-28,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,8,2026-08-29,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,9,2026-08-30,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,10,2026-08-31,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,11,2026-09-01,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,12,2026-09-02,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,13,2026-09-03,0.0,-16.6869,-49.2648,https://open-meteo.com/
+2026-08-22,Goiânia,14,2026-09-04,0.0,-16.6869,-49.2648,https://open-meteo.com/
