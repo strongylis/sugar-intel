@@ -5347,6 +5347,11 @@ data,ticker,produto,close,var_semanal_pct,unidade
 2026-09-11,CL=F,Petróleo WTI,100.05,9.3682,US$/bbl
 2026-09-11,ZC=F,Milho CBOT,510.25,-0.3418,¢/bu
 2026-09-11,SB=F,Açúcar NY #11,18.15,0.4427,¢/lb
-2026-09-14,BZ=F,Petróleo Brent,107.67,9.9571,US$/bbl
-2026-09-14,CL=F,Petróleo WTI,102.76,10.459,US$/bbl
-2026-09-14,ZC=F,Milho CBOT,532.25,4.1585,¢/bu
+2026-09-14,BZ=F,Petróleo Brent,105.68,7.9248,US$/bbl
+2026-09-14,CL=F,Petróleo WTI,101.39,8.9863,US$/bbl
+2026-09-14,ZC=F,Milho CBOT,512.0,0.1957,¢/bu
+2026-09-14,SB=F,Açúcar NY #11,18.16,0.3315,¢/lb
+2026-09-15,SB=F,Açúcar NY #11,18.9,4.4199,¢/lb
+2026-09-16,BZ=F,Petróleo Brent,108.24,6.946,US$/bbl
+2026-09-16,CL=F,Petróleo WTI,105.21,9.5367,US$/bbl
+2026-09-16,ZC=F,Milho CBOT,534.75,5.3176,¢/bu
