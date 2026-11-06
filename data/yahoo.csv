@@ -5500,4 +5500,10 @@ data,ticker,produto,close,var_semanal_pct,unidade
 2026-10-30,ZC=F,Milho CBOT,447.75,-1.8092,¢/bu
 2026-11-02,ZC=F,Milho CBOT,448.25,-1.4835,¢/bu
 2026-11-03,ZC=F,Milho CBOT,442.5,-1.3928,¢/bu
-2026-11-04,ZC=F,Milho CBOT,445.75,-1.3282,¢/bu
+2026-11-04,ZC=F,Milho CBOT,444.25,-1.6602,¢/bu
+2026-11-05,SB=F,Açúcar NY #11,18.6,-4.4684,¢/lb
+2026-11-04,BZ=F,Petróleo Brent,94.62,-17.95,US$/bbl
+2026-11-06,BZ=F,Petróleo Brent,99.02,-15.828,US$/bbl
+2026-11-04,CL=F,Petróleo WTI,88.12,-14.2635,US$/bbl
+2026-11-06,CL=F,Petróleo WTI,91.11,-12.4952,US$/bbl
+2026-11-05,ZC=F,Milho CBOT,440.75,-2.3269,¢/bu
